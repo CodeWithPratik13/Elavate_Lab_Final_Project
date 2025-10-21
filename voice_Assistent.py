@@ -12,8 +12,8 @@ from playsound import playsound
 import tempfile
 
 # ===== API Keys =====
-GEMINI_API_KEY = "AIzaSyCLaIRwIdS3Q9e3Pmc738akGzQVuhpdopg"  # (you already have)
-ELEVEN_API_KEY = "sk_07b1e483e151386dc02ee8878abefed36a2b117138006194"
+GEMINI_API_KEY = "YOUR_API_KEY"
+ELEVEN_API_KEY = "YOUR_API_KEY"
 
 # ===== API URLs =====
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
